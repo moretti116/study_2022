@@ -18,9 +18,9 @@
 //	using namespace std;
 //
 //	double distance;
-//	cout << "ÊäÈë¾àÀë: ";
+//	cout << "ÃŠÃ¤ÃˆÃ«Â¾Ã Ã€Ã«: ";
 //	cin >> distance;
-//	cout << "¾àÀëÊÇ£º" << 220 * distance << " yard\n";
+//	cout << "Â¾Ã Ã€Ã«ÃŠÃ‡Â£Âº" << 220 * distance << " yard\n";
 //
 //	return 0;
 //}
@@ -71,7 +71,7 @@
 //
 //	return 0;
 //}
-//void print_C()
+//void print_C() 
 //{
 //	float celsius = 0;
 //	cout << "please enter a Celsius Value: ";
